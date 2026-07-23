@@ -1,5 +1,5 @@
-<H3>Enter Name Sumith M</H3>
-<H3>Enter Register No. 212224230279</H3>
+<H3>Name Sumith M</H3>
+<H3></H3> Register No. 212224230279</H3>
 <H3>Experiment 2</H3>
 <H3>Date 23/07/2026</H3>
 
